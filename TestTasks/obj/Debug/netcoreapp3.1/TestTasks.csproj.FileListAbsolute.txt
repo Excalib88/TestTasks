@@ -1,0 +1,13 @@
+D:\Projects\TestTasks\TestTasks\bin\Debug\netcoreapp3.1\TestTasks.exe
+D:\Projects\TestTasks\TestTasks\bin\Debug\netcoreapp3.1\TestTasks.deps.json
+D:\Projects\TestTasks\TestTasks\bin\Debug\netcoreapp3.1\TestTasks.runtimeconfig.json
+D:\Projects\TestTasks\TestTasks\bin\Debug\netcoreapp3.1\TestTasks.runtimeconfig.dev.json
+D:\Projects\TestTasks\TestTasks\bin\Debug\netcoreapp3.1\TestTasks.dll
+D:\Projects\TestTasks\TestTasks\bin\Debug\netcoreapp3.1\TestTasks.pdb
+D:\Projects\TestTasks\TestTasks\obj\Debug\netcoreapp3.1\TestTasks.csprojAssemblyReference.cache
+D:\Projects\TestTasks\TestTasks\obj\Debug\netcoreapp3.1\TestTasks.AssemblyInfoInputs.cache
+D:\Projects\TestTasks\TestTasks\obj\Debug\netcoreapp3.1\TestTasks.AssemblyInfo.cs
+D:\Projects\TestTasks\TestTasks\obj\Debug\netcoreapp3.1\TestTasks.csproj.CoreCompileInputs.cache
+D:\Projects\TestTasks\TestTasks\obj\Debug\netcoreapp3.1\TestTasks.dll
+D:\Projects\TestTasks\TestTasks\obj\Debug\netcoreapp3.1\TestTasks.pdb
+D:\Projects\TestTasks\TestTasks\obj\Debug\netcoreapp3.1\TestTasks.genruntimeconfig.cache
